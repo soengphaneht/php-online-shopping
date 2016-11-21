@@ -1,0 +1,13 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+body{
+    margin-top: 10px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+ }
+.well_footer{
+    text-align: center;
+    color: green;
+}
